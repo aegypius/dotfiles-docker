@@ -30,3 +30,8 @@ if [ -d ~/.bashrc.d ]; then
 fi
 # }}}
 ```
+
+### See Also
+
+  - [aegypius/dotfiles](https://github.com/aegypius/dotfiles-docker): My personal dotfiles canonical repository
+  - [aegypius/dotfiles-wrapped](https://github.com/aegypius/dotfiles-wrapped): Useful wrappers for containerized environments.
